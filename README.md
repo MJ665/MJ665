@@ -38,9 +38,10 @@ src="https://img.shields.io/github/followers/mj665?logo=github&style=for-the-bad
 
 <div width="100%" align="center"><a href="https://github.com/mj665/Terminal-Theme-Portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mj665&repo=Terminal-Theme-Portfolio&title_color=ec4899&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
 
+<br /><br /><br /> <br /><br /> <br /><br />
 
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d94615095da82caf8d4667?variant=dark&roadmaps=javascript%2Ctechnical-writer%2Cbackend%2Cfull-stack)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d94615095da82caf8d4667?variant=dark&roadmaps=ai-data-scientist%2Cfull-stack%2Cjavascript%2Ctechnical-writer)](https://roadmap.sh)
 
 <!--
 **MJ665/MJ665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
