@@ -40,8 +40,7 @@ src="https://img.shields.io/github/followers/mj665?logo=github&style=for-the-bad
 
 
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d94615095da82caf8d4667?variant=dark&roadmaps=javascript)](https://roadmap.sh)
-
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d94615095da82caf8d4667?variant=dark&roadmaps=javascript%2Ctechnical-writer%2Cbackend%2Cfull-stack)](https://roadmap.sh)
 
 <!--
 **MJ665/MJ665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
