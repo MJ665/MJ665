@@ -28,6 +28,8 @@ I am in my Second year of engineering at Thakur college of engineering, Mumbai i
 
 - ☁️ I've keen interest in Artificial Intelligence and Machine Learning. So,I'm learning **Tensor Flow**
 
+- 🔭 You can explore my portfolio website **[https://mj665.github.io/](https://mj665.github.io/)**
+
 - 📫 Feel free to reach me out **hackathon2mj@gmail.com**
 
 ### Badges
