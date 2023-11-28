@@ -6,10 +6,9 @@
   </ul>
 </div>
 
-============================================================================================================================
 
-<a href="https://www.github.com/mj665" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mj665?logo=github&style=for-the-badge&color=6366f1&labelColor=0f172a" /></a>
+<hr>
+
 
 [![An image of @mj123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mj123)](https://holopin.io/@mj123)
 
@@ -86,8 +85,12 @@ I am in my Second year of engineering at Thakur college of engineering, Mumbai i
 
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=mj665&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+
+  <a href="https://www.github.com/mj665" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/mj665?logo=github&style=for-the-badge&color=6366f1&labelColor=0f172a" /></a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mj665&label=Profile%20views&color=0e75b6&style=flat" alt="mj665" /> </p>
+
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
