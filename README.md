@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img height="20px" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div id="user-content-toc">
   <ul align="center">
@@ -30,7 +30,7 @@ I am in my Second year of engineering at Thakur college of engineering, Mumbai i
 
 - 🔭 You can explore my portfolio website **[https://mj665.github.io/](https://mj665.github.io/)**
 
-- 📫 Feel free to reach me out **hackathon2mj@gmail.com**
+- 📫 Feel free to reach me out **[hackathon2mj@gmail.com](mailto:hackathon2mj@gmail.com)**
 
 ### Badges
 
@@ -59,17 +59,34 @@ I am in my Second year of engineering at Thakur college of engineering, Mumbai i
 [![Meet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mj665&theme=react)](https://github.com/mj665/github-readme-activity-graph)
 -->
 
+
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/mj665/statsForMyUni" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mj665&repo=statsForMyUni&title_color=ec4899&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/mj665/mj665.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mj665&repo=mj665.github.io&title_color=ec4899&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /> <br /><br /> <br /><br />
+<div width="100%" align="center">
 
-<div width="100%" align="center"><a href="https://github.com/mj665/Terminal-Theme-Portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mj665&repo=Terminal-Theme-Portfolio&title_color=ec4899&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
+<a href="https://github.com/Stats-For-My-Uni/statsForMyUni" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Stats-For-My-Uni&repo=statsForMyUni&title_color=ec4899&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" /></a>
 
-<br /><br /><br /> <br /><br /> <br /><br />
+<a href="https://github.com/mj665/mj665.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mj665&repo=mj665.github.io&title_color=ec4899&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /> <br /><br /> <br /><br />
+
+
+<div width="100%" align="center">
+<a href="https://github.com/tcet-opensource/documentation" align="left">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tcet-opensource&repo=documentation&title_color=ec4899&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" />
+</a>
+
+<a href="https://github.com/MJ665/Cropify" align="right">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mj665&repo=Cropify&title_color=ec4899&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /> <br /><br /> <br /><br />
+
+
+
+<div align="center">
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d94615095da82caf8d4667?variant=dark&roadmaps=ai-data-scientist%2Cfull-stack%2Cjavascript%2Ctechnical-writer)](https://roadmap.sh)
 
+</div>
+
 <div align=center>
+  <p>Github Trophy</p>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=mj665&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
@@ -95,7 +112,7 @@ src="https://img.shields.io/github/followers/mj665?logo=github&style=for-the-bad
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img height="20px" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--
 **MJ665/MJ665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
