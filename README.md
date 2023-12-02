@@ -14,7 +14,7 @@
 
 I am in my Second year of engineering at Thakur college of engineering, Mumbai in Artificial Intelligence and Machine Learning also enrolled in foundation level IITM online BS Degree program in Data Science and Application. I am very passionate about programming & development and want to achieve something extraordinary in my life. I always try to learn something new, always in search of new opportunities to participate in different programs, remain to be consistent towards my work and academics and always try to be a progressive person. My Qualities- punctuality, confidence, leader, and curious about new things.
 
-### Skills
+### Skills & Understanding Of:
 
 • JavaScript | TypeScript | C++ | C | Python | Tailwind CSS | Node JS | Express | React | jQuery | NoSQL | SQL | Postgres | MongoDB | MySQL | Git | Github | HTML | CSS | Bootstrap | Handlebars | Java | Power BI | MS Office
 
