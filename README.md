@@ -30,7 +30,7 @@ I am in my Second year of engineering at Thakur college of engineering, Mumbai i
 
 - 🔭 You can explore my portfolio website **[https://mj665.github.io/](https://mj665.github.io/)**
 
-- 📫 Feel free to reach me out **[hackathon2mj@gmail.com](mailto:hackathon2mj@gmail.com)**
+- 📫 Feel free to reach me out **[hackathonmj641@gmail.com](mailto:hackathonmj641@gmail.com)**
 
 ### Badges
 
