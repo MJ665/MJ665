@@ -24,7 +24,7 @@ I am in my Third year of engineering at Thakur college of engineering, Mumbai in
 
 • Leader | Critical Thinker | Innovative | Resilient | Problem Solver | Team Player | Time Conscious | Adaptable & Continuous Learner | English, Hindi– All professional proficiency or above.
 
-- 🔭 I’m currently working on **[Stox Sight](https://github.com/Stats-For-My-Uni/StoxSight)**
+- 🔭 I’m currently working on **[Stox Sight](https://github.com/mj665/StoxSight)**
 
 - 🌱 I’m currently learning **MCP Servers and Algorithms for Stock and Financial Markets.**
 
@@ -107,8 +107,8 @@ I am in my Third year of engineering at Thakur college of engineering, Mumbai in
 <div width="100%" align="center">
 
 <!-- Stox Sight (Frontend / Main) -->
-<a href="https://github.com/StoxSight" align="left">
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=StoxSight&repo=StoxSight&title_color=ec4899&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true" />
+<a href="https://github.com/mj665/StoxSight" align="left">
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mj665&repo=StoxSight&title_color=ec4899&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true" />
 </a>
 
 <!-- ML Service -->
