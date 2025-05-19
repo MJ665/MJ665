@@ -14,21 +14,21 @@
 
 [![An image of @mj123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mj123)](https://holopin.io/@mj123)
 
-I am in my Second year of engineering at Thakur college of engineering, Mumbai in Artificial Intelligence and Machine Learning also enrolled in foundation level IITM online BS Degree program in Data Science and Application. I have enrolled in Harkirats 100xdevs Cohort 2. I have complited till week 16. I know Json Webtokens, Express, Postgress, Prisma , Mongodb, Amazon Web Services, React , Next JS. `I am very passionate about programming & development and want to achieve something extraordinary in my life. I always try to learn something new, always in search of new opportunities to participate in different programs, remain to be consistent towards my work and academics and always try to be a progressive person. My Qualities- punctuality, confidence, leader, and curious about new things.
+I am in my Third year of engineering at Thakur college of engineering, Mumbai in Artificial Intelligence and Machine Learning also enrolled in Diploma level IITM online BS Degree program in Data Science and Application. I have enrolled in Harkirats 100xdevs Cohort 2. I have complited till week 25. I know Postgress, Prisma , Mongodb, Amazon Web Services, React , Next JS. `I am very passionate about programming & development and want to achieve something extraordinary in my life. I always try to learn something new, always in search of new opportunities to participate in different programs, remain to be consistent towards my work and academics and always try to be a progressive person. My Qualities- punctuality, confidence, leader, and curious about new things.
 
 ### Skills & Understanding Of:
 
-• JavaScript | TypeScript | C++ | C | Python | Tailwind CSS | Node JS | Express | React | jQuery | NoSQL | SQL | Postgres | MongoDB | MySQL | Git | Github | HTML | CSS | Bootstrap | Handlebars | Java | Power BI | MS Office
+• Artificial Intelligence | Machine Learning | Data Science | Natural Language Processing | Predictive Analytics | Generative AI | Computer Vision | Web Development | DevOps | Business Analytics | Business Data Management | Stock & Trading Analytics
 
-• AWS | Cloud Computing | CI/CD | Firebase | Docusaurus | Docker | Moc OS | Linux | OOP | Digital Ocean | Photoshop | Postman | Google Cloud | System Design | Operating System | Data Structures | Search Engine Optimization
+• Python | JavaS cript | TypeScript | C++ | C | Advanced Excel | Power BI | SQL | Scikit Learn | TensorFlow | PyTorch | Keras | XGBoost | LightGBM | spaCy | NLTK | MLflow | Weights & Biases (wandb) | Streamlit | HuggingFace Transformers | LangChain | Express | ReactJS | Next | Next Auth | AWS | CI/CD | Docusaurus | Docker | Monorepo | Turborepo | ORM | Prisma | Scaling | Linux | Postman | System Design | Postgresql | MongoDB | Tailwind CSS | Node JS
 
-• Technical Writing and Documentation | Open Source | Devops | System Administrator | Frontend | Backend | Full-Stack
+• Leader | Critical Thinker | Innovative | Resilient | Problem Solver | Team Player | Time Conscious | Adaptable & Continuous Learner | English, Hindi– All professional proficiency or above.
 
 - 🔭 I’m currently working on **[Stox Sight](https://github.com/Stats-For-My-Uni/StoxSight)**
 
-- 🌱 I’m currently learning **Scalable Backend and Databases.**
+- 🌱 I’m currently learning **MCP Servers and Algorithms for Stock and Financial Markets.**
 
-- ☁️ I've keen interest in Artificial Intelligence and Machine Learning. So,I'm learning **Tensor Flow**
+- ☁️ I've keen interest in Artificial Intelligence and Machine Learning. So,I'm learning **Transformers**
 
 - 🔭 You can explore my portfolio website **[https://mj665.in](https://mj665.in)**
 
@@ -62,6 +62,8 @@ I am in my Second year of engineering at Thakur college of engineering, Mumbai i
 -->
 
 
+
+<!--
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
@@ -96,6 +98,51 @@ I am in my Second year of engineering at Thakur college of engineering, Mumbai i
 </a>
 
 <br /><br /><br /> <br /><br /> <br /><br />
+-->
+
+
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center">
+
+<!-- Stox Sight (Frontend / Main) -->
+<a href="https://github.com/StoxSight" align="left">
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=StoxSight&repo=StoxSight&title_color=ec4899&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true" />
+</a>
+
+<!-- ML Service -->
+<a href="https://github.com/MJ665/stox-sight-ml-service" align="right">
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MJ665&repo=stox-sight-ml-service&title_color=ec4899&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true" />
+</a>
+
+<br /><br /><br /><br /><br /><br /><br />
+
+<!-- MLP System Threat Forecaster -->
+<a href="https://github.com/MJ665/MLP-Project-System-Threat-Forecaster" align="left">
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MJ665&repo=MLP-Project-System-Threat-Forecaster&title_color=ec4899&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true" />
+</a>
+
+<!-- BDM Project -->
+<a href="https://github.com/MJ665/BDM-Project" align="right">
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MJ665&repo=BDM-Project&title_color=ec4899&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true" />
+</a>
+
+<br /><br /><br /><br /><br /><br /><br />
+
+<!-- Personal Portfolio Website -->
+<a href="https://github.com/MJ665/mj665.github.io" align="left">
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MJ665&repo=mj665.github.io&title_color=ec4899&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true" />
+</a>
+
+<!-- TCET Open Source Docs -->
+<a href="https://github.com/tcet-opensource/documentation" align="right">
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tcet-opensource&repo=documentation&title_color=ec4899&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true" />
+</a>
+
+</div>
+
+<br /><br /><br /><br /><br /><br /><br />
 
 
 <div align="center">
