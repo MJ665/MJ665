@@ -22,7 +22,7 @@ I am in my Second year of engineering at Thakur college of engineering, Mumbai i
 
 • Technical Writing and Documentation | Open Source | Devops | System Administrator | Frontend | Backend | Full-Stack
 
-- 🔭 I’m currently working on **[Stats For My Uni](https://github.com/Stats-For-My-Uni/statsForMyUni)**
+- 🔭 I’m currently working on **[Stox Sight](https://github.com/Stats-For-My-Uni/StoxSight)**
 
 - 🌱 I’m currently learning **Scalable Backend and Databases.**
 
@@ -64,9 +64,28 @@ I am in my Second year of engineering at Thakur college of engineering, Mumbai i
 
 <div width="100%" align="center">
 
-<a href="https://github.com/Stats-For-My-Uni/statsForMyUni" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Stats-For-My-Uni&repo=statsForMyUni&title_color=ec4899&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" /></a>
+<a href="https://github.com/StoxSight" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Stats-For-My-Uni&repo=statsForMyUni&title_color=ec4899&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" /></a>
 
-<a href="https://github.com/mj665/mj665.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mj665&repo=mj665.github.io&title_color=ec4899&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /> <br /><br /> <br /><br />
+
+
+<a href="https://github.com/MJ665/stox-sight-ml-service " align="right">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mj665&repo=Cropify&title_color=ec4899&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
+
+<br /><br /><br /> <br /><br /> <br /><br />
+
+
+
+<a href="https://github.com/MJ665/MLP-Project-System-Threat-Forecaster" align="right">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mj665&repo=Cropify&title_color=ec4899&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
+ 
+<a href="https://github.com/MJ665/BDM-Project" align="right">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mj665&repo=Cropify&title_color=ec4899&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
+ 
+<br /><br /><br /> <br /><br /> <br /><br />
+
+
+
+<a href="https://github.com/mj665/mj665.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mj665&repo=mj665.github.io&title_color=ec4899&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
 
 
 <div width="100%" align="center">
@@ -74,9 +93,7 @@ I am in my Second year of engineering at Thakur college of engineering, Mumbai i
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tcet-opensource&repo=documentation&title_color=ec4899&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" />
 </a>
 
-<a href="https://github.com/MJ665/Cropify" align="right">
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mj665&repo=Cropify&title_color=ec4899&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /> <br /><br /> <br /><br />
-
+<br /><br /><br /> <br /><br /> <br /><br />
 
 
 <div align="center">
