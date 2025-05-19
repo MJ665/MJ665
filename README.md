@@ -10,6 +10,8 @@
 <hr>
 
 
+[![Break Out Hackathon Image](https://github.com/MJ665/MJ665/blob/main/new-breakout-mj665.png?raw=true)](https://holopin.io/@mj123)
+
 [![An image of @mj123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mj123)](https://holopin.io/@mj123)
 
 I am in my Second year of engineering at Thakur college of engineering, Mumbai in Artificial Intelligence and Machine Learning also enrolled in foundation level IITM online BS Degree program in Data Science and Application. I have enrolled in Harkirats 100xdevs Cohort 2. I have complited till week 16. I know Json Webtokens, Express, Postgress, Prisma , Mongodb, Amazon Web Services, React , Next JS. `I am very passionate about programming & development and want to achieve something extraordinary in my life. I always try to learn something new, always in search of new opportunities to participate in different programs, remain to be consistent towards my work and academics and always try to be a progressive person. My Qualities- punctuality, confidence, leader, and curious about new things.
@@ -28,9 +30,9 @@ I am in my Second year of engineering at Thakur college of engineering, Mumbai i
 
 - ☁️ I've keen interest in Artificial Intelligence and Machine Learning. So,I'm learning **Tensor Flow**
 
-- 🔭 You can explore my portfolio website **[https://mj665.github.io/](https://mj665.github.io/)**
+- 🔭 You can explore my portfolio website **[https://mj665.in](https://mj665.in)**
 
-- 📫 Feel free to reach me out **[hackathonmj641@gmail.com](mailto:hackathonmj641@gmail.com)**
+- 📫 Feel free to reach me out **[contact.hackathonmj@gmail.com](mailto:contact.hackathonmj@gmail.com)**
 
 ### Badges
 
